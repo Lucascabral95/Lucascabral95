@@ -104,8 +104,16 @@ Desarrollador Full Stack apasionado, con habilidades sólidas en el desarrollo d
 ### 🤝🏻 &nbsp;Contactame
 
 <p align="center">
-<a href="https://www.linkedin.com/in/lucas-gast%C3%B3n-cabral" target="_blank"><img src="https://img.shields.io/badge/-Lucas%20Gastón%20Cabral-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:Lucassimple@hotmail.com"><img src="https://img.shields.io/badge/-Lucassimple@hotmail.com-8A2BE2?style=flat&logo=Microsoft%20Outlook&logoColor=white"/></a>
-<a href="https://instagram.com/lucascabral95" target="_blank"><img src="https://img.shields.io/badge/-@Lucascabral95-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://web.facebook.com/lucas.cabral3" target="_blank"><img src="https://img.shields.io/badge/-Lucas%20Cabral-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/lucas-gast%C3%B3n-cabral" target="_blank">
+        <img src="https://img.shields.io/badge/-Lucas%20Gastón%20Cabral-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:Lucassimple@hotmail.com">
+        <img src="https://img.shields.io/badge/-Lucassimple@hotmail.com-8A2BE2?style=flat&logo=Microsoft%20Outlook&logoColor=white"/>
+    </a>
+    <a href="https://instagram.com/lucascabral95" target="_blank">
+        <img src="https://img.shields.io/badge/-@Lucascabral95-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+    </a>
+    <a href="https://web.facebook.com/lucas.cabral3" target="_blank">
+        <img src="https://img.shields.io/badge/-Lucas%20Cabral-1877F2?style=flat&logo=Facebook&logoColor=white"/>
+    </a>
 </p>
