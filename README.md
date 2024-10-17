@@ -11,9 +11,7 @@
 <img src="https://i.pinimg.com/originals/f9/35/e5/f935e5bba08c301cfac42235a419c54a.gif" />
 </p>
 
-<br />
-
-## Sobre mí 😃
+### Sobre mí 😃
 Desarrollador Full Stack apasionado, con habilidades sólidas en el desarrollo de frontend y backend. Experto en la creación de soluciones robustas y escalables, enfocado en la excelencia técnica y la innovación. También poseo conocimientos en redes y ciberseguridad, incluyendo protocolos, firewalls y medidas de protección de sistemas. Defiendo la simplicidad elegante y una usabilidad centrada en el usuario. Estoy preparado para aportar mi creatividad y experiencia a proyectos desafiantes y colaborativos.
 
 <img align="right" width=300px alt="Gato codeando" src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" />
@@ -24,7 +22,7 @@ Desarrollador Full Stack apasionado, con habilidades sólidas en el desarrollo d
 📚 Actualmente estoy mejorando mi ***inglés*** y perfeccionando ***Python***. <br>
 💻  Estoy desarrollando aplicaciones tanto del lado del Frontend como del Backend, integrando diversas tecnologías para enriquecer mi experiencia.<br>
 🎹  Me encanta hablar sobre programación, teclados (y probarlos) y tecnología! 😉<br>
-🤔  Dato cursioso: cuando estoy estresado o aburrido, programar me parece la mejor elección posible.<br><br><br><br>
+🤔  Dato cursioso: cuando estoy estresado o aburrido, programar me parece la mejor elección posible.<br><br><br>
  
 ### 🛠 &nbsp;Tecnologias
 
@@ -59,7 +57,7 @@ Desarrollador Full Stack apasionado, con habilidades sólidas en el desarrollo d
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### 🧰 &nbsp;Control de Versiones y Herramientas
+### 🧰 &nbsp;Software y Herramientas
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -77,8 +75,6 @@ Desarrollador Full Stack apasionado, con habilidades sólidas en el desarrollo d
 ![VPN](https://img.shields.io/badge/VPN-00B4D8?style=for-the-badge&logo=vpn&logoColor=white)
 ![Firewalls](https://img.shields.io/badge/Firewalls-FF5733?style=for-the-badge&logo=fire&logoColor=white)
 ![Protocolos de Comunicación de Datos](https://img.shields.io/badge/Protocolos%20de%20Comunicación%20de%20Datos-008000?style=for-the-badge&logo=network-wired&logoColor=white)
-
-<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -104,3 +100,12 @@ Desarrollador Full Stack apasionado, con habilidades sólidas en el desarrollo d
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
     </picture>
 </div>
+
+### 🤝🏻 &nbsp;Contactame
+
+<p align="center">
+<a href="https://www.linkedin.com/in/lucas-gast%C3%B3n-cabral" target="_blank"><img src="https://img.shields.io/badge/-Lucas%20Gastón%20Cabral-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:Lucassimple@hotmail.com"><img src="https://img.shields.io/badge/-Lucassimple@hotmail.com-8A2BE2?style=flat&logo=Microsoft%20Outlook&logoColor=white"/></a>
+<a href="https://instagram.com/lucascabral95" target="_blank"><img src="https://img.shields.io/badge/-@Lucascabral95-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://web.facebook.com/lucas.cabral3" target="_blank"><img src="https://img.shields.io/badge/-Lucas%20Cabral-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
