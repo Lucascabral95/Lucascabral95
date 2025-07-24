@@ -12,7 +12,7 @@
 </p>
 
 ### Sobre mí 😃
-**Desarrollador Full Stack** apasionado por crear aplicaciones increíbles con **React, Angular, Node.js y TypeScript**. Mi día perfecto incluye café, código y la satisfacción de resolver problemas complejos con soluciones elegantes.
+**Desarrollador Full Stack** apasionado por crear aplicaciones increíbles con **React, Next.js Angular, Node.js, NestJS, Docker y TypeScript**. Mi día perfecto incluye café, código y la satisfacción de resolver problemas complejos con soluciones elegantes.
 
 Siempre explorando nuevas tecnologías y buscando maneras de hacer que el desarrollo sea más eficiente y divertido.
 <br><br>
