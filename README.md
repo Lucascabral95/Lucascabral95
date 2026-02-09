@@ -24,11 +24,11 @@
 
 ## 👨‍💻 Sobre Mí
 
-Ingeniero Full Stack con especialización en **Cloud Computing** y **Arquitecturas Distribuidas**. Mi enfoque combina desarrollo de software escalable con principios de DevOps y Site Reliability Engineering (SRE).
+Developer Full Stack con especialización en **Cloud Computing** y **Arquitecturas Distribuidas**. Mi enfoque combina desarrollo de software escalable con principios de DevOps y Site Reliability Engineering (SRE).
 
 ```typescript
 const lucas = {
-    rol: "Desarrollador Full Stack Senior",
+    rol: "Desarrollador Full Stack",
     ubicacion: "Buenos Aires, Argentina",
     especialidades: ["Arquitectura Cloud", "Microservicios", "Sistemas Event-Driven"],
     enfoqueActual: "Construyendo sistemas distribuidos resilientes en AWS",
