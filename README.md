@@ -451,6 +451,4 @@ Siempre estoy abierto a discutir sobre **arquitectura cloud**, **patrones de mic
   
   ### 💭 "La simplicidad es la máxima sofisticación" - Leonardo da Vinci
   
-  ![Contador de Visitas](https://profile-counter.glitch.me/Lucascabral95/count.svg)
-  
 </div>
